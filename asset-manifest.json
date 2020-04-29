@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/archana_react/static/css/main.c0d663da.chunk.css",
+    "main.js": "/archana_react/static/js/main.46e452af.chunk.js",
+    "main.js.map": "/archana_react/static/js/main.46e452af.chunk.js.map",
+    "runtime-main.js": "/archana_react/static/js/runtime-main.f463826a.js",
+    "runtime-main.js.map": "/archana_react/static/js/runtime-main.f463826a.js.map",
+    "static/js/2.90f1508f.chunk.js": "/archana_react/static/js/2.90f1508f.chunk.js",
+    "static/js/2.90f1508f.chunk.js.map": "/archana_react/static/js/2.90f1508f.chunk.js.map",
+    "index.html": "/archana_react/index.html",
+    "precache-manifest.1d1c5d73adf5100ce15c41dbf89fca33.js": "/archana_react/precache-manifest.1d1c5d73adf5100ce15c41dbf89fca33.js",
+    "service-worker.js": "/archana_react/service-worker.js",
+    "static/css/main.c0d663da.chunk.css.map": "/archana_react/static/css/main.c0d663da.chunk.css.map",
+    "static/js/2.90f1508f.chunk.js.LICENSE.txt": "/archana_react/static/js/2.90f1508f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f463826a.js",
+    "static/js/2.90f1508f.chunk.js",
+    "static/css/main.c0d663da.chunk.css",
+    "static/js/main.46e452af.chunk.js"
+  ]
+}
