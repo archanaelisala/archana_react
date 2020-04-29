@@ -1,0 +1,54 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name" : "Archana Elisala",
+                "role" : "Multi skill Trainer",
+                "email" : "archanaelisala@gmail.com",
+                "mobile": "+91 8466852424"
+            },
+            "AboutMe":[
+                {
+                    "MySelf":"Hello! I am Archana. Technical Skill Trainer. Working as technical skill trainer in Andhra Pradesh State Skill Development Corporation (APSSDC), Vijayawada - Andhra Pradesh So far I have Trained Around 4000+ Engineering Students across AP in short term and long term Training Programs"
+
+
+                }
+            ],
+
+            "SkillSet":[
+                {
+                    "pro":"Programming Languages : Python, Java, C",
+                    "fram":"FrameWorks : Django, Flask, Reactjs, Javascript",
+                    "Web":"Web Technologies : HTML5, CSS3, Bootstrap4"
+                }
+            ],
+            
+            "Certifications":[
+                {
+                    "Name":"Python For Everybody",
+                    "University":"Michigan Univversity"
+                },
+                {
+                    "Name":"FullStack Nano Degree Certification ",
+                    "University":"Udacity"
+                }
+            ],
+
+
+            "education":[
+                {
+                    "degree":"B-Tech (CSE)",
+                    "institution": "GUDLAVALLERU ENGINEERING COLLEGE"
+                },
+                {
+                    "degree":"Inter",
+                    "institution":"VIDYALAYA JUNIOR COLLEGE"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "SPS MUNCIPAL HIGH SCHOOL"
+                }
+            ]
+        }
+    ]
+}
